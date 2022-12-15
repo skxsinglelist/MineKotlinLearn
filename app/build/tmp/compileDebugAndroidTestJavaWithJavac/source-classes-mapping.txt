@@ -1,0 +1,2 @@
+com/cyn/mt/test/BuildConfig.java
+ com.cyn.mt.test.BuildConfig

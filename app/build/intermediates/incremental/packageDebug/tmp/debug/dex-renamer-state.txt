@@ -1,0 +1,4 @@
+#Fri Dec 09 11:09:18 CST 2022
+base.0=/Users/songkaixuan/Downloads/ViewPager-master/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

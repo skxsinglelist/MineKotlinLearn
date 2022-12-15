@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fb740f0718d132e2ad12dfb7d79fb261/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a08c4430ffa2b8e521fa03b82a9fabad/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d09240051ab99fdfc26ecce38613bee7/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/8d5387ea2d4c5f8a91ecbf3df6a0a2f6/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a299adbac9f110eea364901ae339bc20/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6f05b5a0212e3dbba862549b6725a205/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fe03d2bc444419f27629c90a349b4638/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ac6fcbb0ba91041e84443d45b34e81f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d431363fed163e8e185c8bacbb0b6a03/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/e114cfd6337de27d6fb1b69065ab43c4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9fc9ff7709bcdfb3ef88093465e974dc/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9b4e44180d928602930d98c34987b684/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6994df5bc3ecd1b65bd9a4255183c85c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fc223935ac55a51e07b136e4347c9e06/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/019d5a8a8a0bdc6d5b3c21af6fd912e1/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c2f504138a3fa358072ad475bf30d0a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/30aa4ad187c9c1520aa524602ebfb1df/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/3661a22c1b6f783ea3418e19a9b8855f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/91d67f8b12a77f382327bdafbf2b0293/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6bd0a39ac319556083fcadf21a1ae4de/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81035ad928a4009df8b47631f7374449/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589556645f78168da6380592547decce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6d06e63da1264e067065f8f6745607ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/551744879feed02d2cc4317a80474ef4/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81da487aeada81d9d1571202bc2b3674/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/58f99823c05492025f9f82dfa92aafed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f10c1bb7841b118e49dc2fb305791299/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589ba10e28d568908e20167321c4ea3c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/676f89c058360a20631b9e53db344fde/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c13100a936eda79a65b766f17c8edd5/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9aa8809aafb3a2d9b936f871a5c21110/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/4ea171981bc7f74509dd4eb1200a42b5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a11a162501d65db9d4e6d2b4e61dd437/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ddbc8b767fb3874eb236b82ca9bae5d8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d8712a53a2c8a4197e272ead4ed931f9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d3df00b69f66d4c0bc518122bca998d5/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fa24618541acb79d6c96a37409f26af3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a08c4430ffa2b8e521fa03b82a9fabad/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a08c4430ffa2b8e521fa03b82a9fabad/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/8d5387ea2d4c5f8a91ecbf3df6a0a2f6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/8d5387ea2d4c5f8a91ecbf3df6a0a2f6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f10c1bb7841b118e49dc2fb305791299/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f10c1bb7841b118e49dc2fb305791299/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.cyn.mt.nested.NestedActivity
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:13:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.cyn.mt.MainActivity
+ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fb740f0718d132e2ad12dfb7d79fb261/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fb740f0718d132e2ad12dfb7d79fb261/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a08c4430ffa2b8e521fa03b82a9fabad/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a08c4430ffa2b8e521fa03b82a9fabad/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d09240051ab99fdfc26ecce38613bee7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d09240051ab99fdfc26ecce38613bee7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/8d5387ea2d4c5f8a91ecbf3df6a0a2f6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/8d5387ea2d4c5f8a91ecbf3df6a0a2f6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a299adbac9f110eea364901ae339bc20/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a299adbac9f110eea364901ae339bc20/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6f05b5a0212e3dbba862549b6725a205/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6f05b5a0212e3dbba862549b6725a205/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fe03d2bc444419f27629c90a349b4638/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fe03d2bc444419f27629c90a349b4638/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ac6fcbb0ba91041e84443d45b34e81f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ac6fcbb0ba91041e84443d45b34e81f0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d431363fed163e8e185c8bacbb0b6a03/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d431363fed163e8e185c8bacbb0b6a03/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/e114cfd6337de27d6fb1b69065ab43c4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/e114cfd6337de27d6fb1b69065ab43c4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9fc9ff7709bcdfb3ef88093465e974dc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9fc9ff7709bcdfb3ef88093465e974dc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9b4e44180d928602930d98c34987b684/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9b4e44180d928602930d98c34987b684/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6994df5bc3ecd1b65bd9a4255183c85c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6994df5bc3ecd1b65bd9a4255183c85c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fc223935ac55a51e07b136e4347c9e06/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fc223935ac55a51e07b136e4347c9e06/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/019d5a8a8a0bdc6d5b3c21af6fd912e1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/019d5a8a8a0bdc6d5b3c21af6fd912e1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c2f504138a3fa358072ad475bf30d0a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c2f504138a3fa358072ad475bf30d0a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/30aa4ad187c9c1520aa524602ebfb1df/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/30aa4ad187c9c1520aa524602ebfb1df/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/3661a22c1b6f783ea3418e19a9b8855f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/3661a22c1b6f783ea3418e19a9b8855f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/91d67f8b12a77f382327bdafbf2b0293/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/91d67f8b12a77f382327bdafbf2b0293/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6bd0a39ac319556083fcadf21a1ae4de/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6bd0a39ac319556083fcadf21a1ae4de/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81035ad928a4009df8b47631f7374449/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81035ad928a4009df8b47631f7374449/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589556645f78168da6380592547decce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589556645f78168da6380592547decce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6d06e63da1264e067065f8f6745607ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/6d06e63da1264e067065f8f6745607ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/551744879feed02d2cc4317a80474ef4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/551744879feed02d2cc4317a80474ef4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f79ccbe7cfbaa8aa52b369048a541c00/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81da487aeada81d9d1571202bc2b3674/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/81da487aeada81d9d1571202bc2b3674/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/58f99823c05492025f9f82dfa92aafed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/58f99823c05492025f9f82dfa92aafed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f10c1bb7841b118e49dc2fb305791299/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/f10c1bb7841b118e49dc2fb305791299/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589ba10e28d568908e20167321c4ea3c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/589ba10e28d568908e20167321c4ea3c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/676f89c058360a20631b9e53db344fde/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/676f89c058360a20631b9e53db344fde/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c13100a936eda79a65b766f17c8edd5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9c13100a936eda79a65b766f17c8edd5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9aa8809aafb3a2d9b936f871a5c21110/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/9aa8809aafb3a2d9b936f871a5c21110/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/4ea171981bc7f74509dd4eb1200a42b5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/4ea171981bc7f74509dd4eb1200a42b5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a11a162501d65db9d4e6d2b4e61dd437/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/a11a162501d65db9d4e6d2b4e61dd437/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ddbc8b767fb3874eb236b82ca9bae5d8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/ddbc8b767fb3874eb236b82ca9bae5d8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d8712a53a2c8a4197e272ead4ed931f9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d8712a53a2c8a4197e272ead4ed931f9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d3df00b69f66d4c0bc518122bca998d5/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/d3df00b69f66d4c0bc518122bca998d5/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fa24618541acb79d6c96a37409f26af3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/songkaixuan/.gradle/caches/transforms-2/files-2.1/fa24618541acb79d6c96a37409f26af3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songkaixuan/Downloads/ViewPager-master/app/src/main/AndroidManifest.xml
